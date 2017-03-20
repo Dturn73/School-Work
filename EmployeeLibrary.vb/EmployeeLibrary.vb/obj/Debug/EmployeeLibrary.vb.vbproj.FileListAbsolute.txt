@@ -1,0 +1,16 @@
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.dll
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.pdb
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.Resources.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\EmployeeLibrary.vb.vbproj.GenerateResource.Cache
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.dll
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\bin\Debug\EmployeeLibrary.vb.dll
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\bin\Debug\EmployeeLibrary.vb.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\bin\Debug\EmployeeLibrary.vb.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\obj\Debug\Employee.vb.Resources.resources
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\obj\Debug\EmployeeLibrary.vb.vbproj.GenerateResource.Cache
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\obj\Debug\EmployeeLibrary.vb.dll
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\obj\Debug\EmployeeLibrary.vb.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\EmployeeLibrary.vb\EmployeeLibrary.vb\obj\Debug\EmployeeLibrary.vb.pdb

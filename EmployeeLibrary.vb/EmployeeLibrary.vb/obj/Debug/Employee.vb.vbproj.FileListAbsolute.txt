@@ -1,0 +1,8 @@
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.dll
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.pdb
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\bin\Debug\Employee.vb.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.Resources.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.vbproj.GenerateResource.Cache
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.dll
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Employee.vb\obj\Debug\Employee.vb.pdb
