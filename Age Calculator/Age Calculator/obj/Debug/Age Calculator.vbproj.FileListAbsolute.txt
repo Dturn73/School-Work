@@ -1,0 +1,14 @@
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.exe.config
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\bin\Debug\Age Calculator.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age_Calculator.frmAgeCalculator.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age_Calculator.Resources.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age Calculator.vbproj.GenerateResource.Cache
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age Calculator.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age Calculator.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\Age Calculator\obj\Debug\Age Calculator.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe.config
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\Age Calculator\Age Calculator\obj\Debug\Age Calculator.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\Age Calculator\Age Calculator\obj\Debug\Age Calculator.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\Age Calculator\Age Calculator\obj\Debug\Age Calculator.pdb
