@@ -1,0 +1,14 @@
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe.config
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.vbproj.GenerateResource.Cache
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS15\Room Charge Calculator\Room Charge Calculator\bin\Debug\Room Charge Calculator.exe.config
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS15\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS15\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS15\Room Charge Calculator\Room Charge Calculator\obj\Debug\Room Charge Calculator.pdb
