@@ -1,0 +1,14 @@
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\bin\Debug\StringBuilder.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.frmStringBuilder.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.Resources.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.vbproj.GenerateResource.Cache
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\StringBuilder\obj\Debug\StringBuilder.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\StringBuilder\StringBuilder\obj\Debug\StringBuilder.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb
