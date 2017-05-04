@@ -1,0 +1,20 @@
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\bin\Debug\ExceptionTester.exe.config
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\bin\Debug\ExceptionTester.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\bin\Debug\ExceptionTester.pdb
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\bin\Debug\ExceptionTester.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.frmExceptionTester.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.Resources.resources
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.vbproj.GenerateResource.Cache
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.exe
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.xml
+C:\Users\David Turner\AppData\Local\Temporary Projects\ExceptionTester\obj\Debug\ExceptionTester.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\bin\Debug\ExceptionTester.exe.config
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.xml
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.frmExceptionTester.resources
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.Resources.resources
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\obj\Debug\ExceptionTester.vbproj.GenerateResource.Cache
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\bin\Debug\ExceptionTester.exe
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\bin\Debug\ExceptionTester.pdb
+C:\Users\David Turner\Documents\Visual Studio 2012\Projects\CS19\ShapeLib\ExceptionTester\ExceptionTester\bin\Debug\ExceptionTester.xml
